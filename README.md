@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I'm a passionate data analyst with strong skills i
 ## 📂 Featured Projects
 
 ### 📌 **Customer Segmentation in Power BI**
-<img src="https://github.com/subhra8888/subhra8888/blob/main/power-bi.png" alt="SQL Logo" width="30" style="vertical-align: middle; margin-right: 5px;"/>**Power BI Analysis**
+<img src="https://github.com/subhra8888/subhra8888/blob/main/power-bi.png" alt="SQL Logo" width="30" style="vertical-align: middle; margin-right: 8px;"/>**Power BI Analysis**
 - Used complex joins, CTEs, and window functions.
 - Created KPIs for churn and lifetime value.
 - [View Project](https://github.com/subhra8888/SQL-Data-Analysis-on-Credit-Card-Transactions)
