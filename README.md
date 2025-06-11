@@ -67,7 +67,7 @@ Welcome to my GitHub profile! I'm a passionate data analyst with strong skills i
 ## 📄 My Resume
 
 <p align="center">
-  <a href="https://github.com/yourusername/yourrepo/raw/main/Your_Resume.pdf" target="_blank">
+  <a href="https://docs.google.com/document/d/17nUmQkeT3dtdm2IF4NOQMecvBdvCTeNk/edit?usp=sharing&ouid=104477646697446914962&rtpof=true&sd=true" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20Resume-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume PDF"/>
   </a>
 </p>
