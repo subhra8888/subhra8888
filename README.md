@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/subhra8888/subhra8888/blob/main/banner.jpg" alt="Banner" width="100%"/>
+</p>
 
 <h1 align="center">Hi there, I'm [Subhra Banerjee] 👋</h1>
 <p align="center">
