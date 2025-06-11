@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there, I'm [Subhra Banerjee] 👋</h1>
 <p align="center">
-  <img src="https://github.com/subhra8888/subhra8888/blob/main/Gif1.gif/" alt="Welcome GIF" width="600"/>
+  <img src="https://github.com/subhra8888/subhra8888/blob/main/Gif1.gif/" alt="Welcome GIF" width="200"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sql&logoColor=white"/>
