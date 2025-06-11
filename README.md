@@ -79,12 +79,4 @@ Welcome to my GitHub profile! I'm a passionate data analyst with strong skills i
 
 ---
 
-## 🧰 Tools & Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=sql,tableau,powerbi,excel,html,css" alt="Skill Icons" />
-</p>
-
----
-
 _Actively looking for Data Analyst roles — open to remote and hybrid opportunities!_
