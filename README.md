@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I'm a passionate data analyst with strong skills i
 ## 📂 Featured Projects
 
 ### 📌 **Sales Dashboard in Power BI**
-[Power BI Analysis](https://github.com/subhra8888/SQL-Data-Analysis-on-Credit-Card-Transactions) <img src="https://your-image-link.com/sql-query.png" alt="SQL Analysis" width="150"/>
+[Power BI Analysis]<img src="https://your-image-link.com/sql-query.png" alt="SQL Analysis" width="150"/>
 - Built a dynamic dashboard for sales tracking.
 - Features DAX formulas, slicers, and custom visuals.
 - [View Project](https://github.com/yourusername/powerbi-sales-dashboard)
