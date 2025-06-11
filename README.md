@@ -1,8 +1,8 @@
+
+<h1 align="center">Hi there, I'm [Subhra Banerjee] 👋</h1>
 <p align="center">
   <img src="https://github.com/subhra8888/subhra8888/blob/main/Gif1.gif/" alt="Welcome GIF" width="600"/>
 </p>
-
-<h1 align="center">Hi there, I'm [Subhra Banerjee] 👋</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
