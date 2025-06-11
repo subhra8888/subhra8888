@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I'm a passionate data analyst with strong skills i
 ## 📂 Featured Projects
 
 ### 📌 **Sales Dashboard in Power BI**
-![Power BI Dashboard](https://your-image-link.com/powerbi-dashboard.png)
+![Power BI Dashboard](https://github.com/subhra8888/subhra8888/blob/main/power-bi.png)
 - Built a dynamic dashboard for sales tracking.
 - Features DAX formulas, slicers, and custom visuals.
 - [View Project](https://github.com/yourusername/powerbi-sales-dashboard)
