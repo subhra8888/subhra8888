@@ -2,7 +2,7 @@
   <img src="https://github.com/subhra8888/subhra8888/blob/main/banner.jpg" alt="Banner" width="100%"/>
 </p>
 
-<h1 align="center">🌍 Hello, World – I'm Subhra Banerjee, and welcome to my GitHub! 👋</h1>
+<h1 align="center">🌍 Hello, World – I'm Subhra Banerjee 👋</h1>
 <p align="center">
   <img src="https://github.com/subhra8888/subhra8888/blob/main/Gif1.gif/" alt="Welcome GIF" width="300"/>
 </p>
