@@ -1,4 +1,7 @@
-<img align="right" alt="Coding" width="400" src="https://www.pinterest.com/pin/isometric-data-analysis-by-oleksii-kolosov--326299935502160715/">
+<p align="center">
+  <img src="https://www.pinterest.com/pin/isometric-data-analysis-by-oleksii-kolosov--326299935502160715/" alt="Welcome GIF" width="600"/>
+</p>
+
 <h1 align="center">Hi there, I'm [Subhra Banerjee] 👋</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sql&logoColor=white"/>
