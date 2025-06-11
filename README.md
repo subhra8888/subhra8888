@@ -79,4 +79,4 @@ Welcome to my GitHub profile! I'm a passionate data analyst with strong skills i
 
 ---
 
-_Actively looking for Data Analyst roles — open to remote and hybrid opportunities!_
+_Actively looking for Data Analyst roles — open to remote, hybrid, and on-site opportunities!_
