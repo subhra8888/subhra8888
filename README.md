@@ -45,7 +45,7 @@ Welcome to my GitHub profile! I'm a passionate data analyst with strong skills i
 
 ---
 
-### 📌 **Customer Segmentation in SQL**
+### 📌 **Credit Card Transactions Analysis in SQL**
 [SQL Analysis]
 - Used complex joins, CTEs, and window functions.
 - Created KPIs for churn and lifetime value.
