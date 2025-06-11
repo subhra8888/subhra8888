@@ -53,11 +53,11 @@ Welcome to my GitHub profile! I'm a passionate data analyst with strong skills i
 
 ---
 
-### 📌 **Tableau Superstore Analysis**
-![Tableau Dashboard](https://your-image-link.com/tableau-dashboard.png)
-- Interactive Tableau dashboard with category-wise insights.
-- Included parameters, actions, and trend analysis.
-- [View Project](https://github.com/yourusername/tableau-superstore-analysis)
+### 📌 **Excel HR Analytics Dashboard**
+![Excel Dashboard]
+- Developed an interactive dashboard for key HR metrics.
+- Includes pivot tables, slicers, and dynamic charts for data insights.
+- [View Project](https://github.com/subhra8888/Excel-HR-Analytics-Dashboard)
 
 ---
 
