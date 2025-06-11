@@ -36,11 +36,11 @@ Welcome to my GitHub profile! I'm a passionate data analyst with strong skills i
 
 ## 📂 Featured Projects
 
-### 📌 **Customer Segmentation in Power BI**
+### 📌 **Adventure Works Cycles Sales Dashboard in Power BI**
 [Power BI Analysis]
-- Used complex joins, CTEs, and window functions.
-- Created KPIs for churn and lifetime value.
-- [View Project](https://github.com/subhra8888/SQL-Data-Analysis-on-Credit-Card-Transactions)
+- Built a dynamic dashboard for sales tracking.
+- Features DAX formulas, slicers, and custom visuals.
+- [View Project](https://github.com/subhra8888/Power-BI-Adventure-Works-Cycles-Sales-Dashboard)
 
 
 ---
