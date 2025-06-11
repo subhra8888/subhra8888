@@ -64,6 +64,14 @@ Welcome to my GitHub profile! I'm a passionate data analyst with strong skills i
 
 ---
 
+<p align="center">
+  <a href="https://github.com/yourusername/yourrepo/raw/main/Your_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume Badge"/>
+  </a>
+</p>
+
+---
+
 ## 🧰 Tools & Technologies
 
 <p align="center">
