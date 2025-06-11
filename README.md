@@ -53,7 +53,7 @@ Welcome to my GitHub profile! I'm a passionate data analyst with strong skills i
 
 ---
 
-### 📌 **Excel HR Analytics Dashboard**
+### 📌 **HR Analytics Dashboard in Excel**
 ![Excel Dashboard]
 - Developed an interactive dashboard for key HR metrics.
 - Includes pivot tables, slicers, and dynamic charts for data insights.
