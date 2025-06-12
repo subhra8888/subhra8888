@@ -83,7 +83,7 @@ Welcome to my GitHub profile! I'm a passionate data analyst with strong skills i
 
 | Degree | Institution | Year | Description |
 |--------|-------------|------|-------------|
-| **B.Tech in [Your Major]** | [Your University Name] | [Year] | Graduated with strong foundation in analytics, data handling, and technical problem-solving. |
+| **B.Com in [Accounts]** | [Kalyani University] | [2002] | Graduated with financial principles, accounting practices, and business operations. |
 
 
 ---
