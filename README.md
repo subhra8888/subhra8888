@@ -103,15 +103,13 @@ Welcome to my GitHub profile! I'm a passionate data analyst with strong skills i
     <img src="https://img.shields.io/badge/View%20My%20Resume-DOCX-blue?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word Resume"/>
   </a>
 </p>
-
-
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 _Actively looking for Data Analyst roles — open to remote, hybrid, and on-site opportunities!_
