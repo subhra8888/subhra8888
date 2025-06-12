@@ -79,4 +79,27 @@ Welcome to my GitHub profile! I'm a passionate data analyst with strong skills i
 
 ---
 
+## 🎓 Education
+
+| Degree | Institution | Year | Description |
+|--------|-------------|------|-------------|
+| **B.Tech in [Your Major]** | [Your University Name] | [Year] | Graduated with strong foundation in analytics, data handling, and technical problem-solving. |
+
+---
+
+## 💼 Work Experience
+
+### 🔹 **[Your Job Title]**  
+**[Company Name]** | *[Start Date] – [End Date or Present]*  
+- Conducted [brief description of tasks].
+- Developed [mention tools or achievements].
+- Collaborated with [teams/departments].
+
+### 🔹 **[Previous Job Title]**  
+**[Previous Company Name]** | *[Start Date] – [End Date]*  
+- [Key responsibilities or accomplishments].
+- [Relevant tools or outcomes].
+
+
+
 _Actively looking for Data Analyst roles — open to remote, hybrid, and on-site opportunities!_
