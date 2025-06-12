@@ -83,7 +83,7 @@ Welcome to my GitHub profile! I'm a passionate data analyst with strong skills i
 
 | Degree | Institution | Year | Description |
 |--------|-------------|------|-------------|
-| **B.Com in [Accounts]** | [Kalyani University] | [2002] | Graduated with financial principles, accounting practices, and business operations. |
+| **B.Com in [Accounting]** | [Kalyani University] | [2002] | Graduated with financial principles, accounting practices, and business operations. |
 
 
 ---
