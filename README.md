@@ -20,6 +20,7 @@
 
 Welcome to my GitHub profile! I'm a passionate data analyst with strong skills in data wrangling, dashboard development, and storytelling through visuals. I love turning raw data into actionable insights using modern BI tools.
 
+
 ---
 
 ## 📊 My Skills
@@ -32,6 +33,7 @@ Welcome to my GitHub profile! I'm a passionate data analyst with strong skills i
 | **Advanced Excel** | 🟩🟩🟩🟩⬜ |
 | **HTML/CSS** | 🟩🟩⬜⬜⬜ |
 
+
 ---
 
 ## 📂 Featured Projects
@@ -41,7 +43,6 @@ Welcome to my GitHub profile! I'm a passionate data analyst with strong skills i
 - Built a dynamic dashboard for sales tracking.
 - Features DAX formulas, slicers, and custom visuals.
 - [View Project](https://github.com/subhra8888/Power-BI-Adventure-Works-Cycles-Sales-Dashboard)
-
 
 ---
 
@@ -59,6 +60,7 @@ Welcome to my GitHub profile! I'm a passionate data analyst with strong skills i
 - Includes pivot tables, slicers, and dynamic charts for data insights.
 - [View Project](https://github.com/subhra8888/Excel-HR-Analytics-Dashboard)
 
+
 ---
 
 ## 🎓 Education
@@ -66,6 +68,7 @@ Welcome to my GitHub profile! I'm a passionate data analyst with strong skills i
 | Degree | Institution | Year | Description |
 |--------|-------------|------|-------------|
 | **B.Tech in [Your Major]** | [Your University Name] | [Year] | Graduated with strong foundation in analytics, data handling, and technical problem-solving. |
+
 
 ---
 
@@ -82,12 +85,14 @@ Welcome to my GitHub profile! I'm a passionate data analyst with strong skills i
 - [Key responsibilities or accomplishments].
 - [Relevant tools or outcomes].
 
+
 ---
 
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/subhra-banerjee-8bb88643/)
 - 📧 Email: 123.shubhro@gmail.com
+
 
 ---
 
