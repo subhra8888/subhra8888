@@ -77,6 +77,22 @@ Welcome to my GitHub profile! I'm a passionate data analyst with strong skills i
 - Improved weekly data-driven team rostering processes to enhance operational efficiency.
 - Led USA Drug and Health Screening Process quality checks, ensuring compliance with standards.
 
+### 🔹 **Facility Lead (Operations and Vendor Management)**  
+** Cushman & Wakefield** | *Sept'2014 – Dec'2018*  
+- Managed data-driven reporting (daily, weekly, MMR, QBR) and streamlined budgeting processes.
+- Supervised housekeeping, security, and technical teams, leveraging KPI data to enhance productivity.
+- Analyzed procurement trends to optimize vendor management and cost-efficiency.
+- Maintained compliance through routine audit data tracking.
+
+### 🔹 **Facility Executive (Operations and Vendor Management)**  
+**Express Housekeeping** | *April'2011 – Sept'2014*  
+- Developed and maintained help desk performance metrics for enhanced service efficiency.
+- Supervised soft services and implemented best practices for process improvement.
+
+### 🔹 **Facility Executive (Operations and Vendor Management)**  
+**CB Richard Ellis (CBRE)** | *May'2010 – March'2011*  
+- Monitored and improved help desk operations using data analytics to track service trends.
+- Coordinated soft services and ensured adherence to quality standards.
 
 ---
 
