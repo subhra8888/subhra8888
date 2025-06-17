@@ -67,9 +67,9 @@ Welcome to my GitHub profile! I'm a passionate data analyst with strong skills i
 
 ### 🔹 **Content Analyst (International Client Engagement)**  
 **Buzzworks Business Services Pvt. Ltd** | *Oct'2021 – Oct'2024*  
-- Conducted [brief description of tasks].
-- Developed [mention tools or achievements].
-- Collaborated with [teams/departments].
+- Contributed to UK and US client projects as a Web Developer and Quality Analyst via Buzzworks, in collaboration with Accenture Mumbai teams.
+- Ensured high-quality website content and functionality; managed shift rosters using Global Productive Hub (GPH) and tracked leave via Team Accuracy Tracker.
+- Handled vendor and transport coordination, optimizing operational efficiency and compliance with organizational standards.
 
 ### 🔹 **[Previous Job Title]**  
 **[Previous Company Name]** | *[Start Date] – [End Date]*  
