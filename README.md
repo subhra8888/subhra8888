@@ -65,8 +65,8 @@ Welcome to my GitHub profile! I'm a passionate data analyst with strong skills i
 
 ## 💼 Work Experience
 
-### 🔹 **[Your Job Title]**  
-**[Company Name]** | *[Start Date] – [End Date or Present]*  
+### 🔹 **Content Analyst (International Client Engagement)**  
+**Buzzworks Business Services Pvt. Ltd** | *Oct'2021 – Oct'2024*  
 - Conducted [brief description of tasks].
 - Developed [mention tools or achievements].
 - Collaborated with [teams/departments].
