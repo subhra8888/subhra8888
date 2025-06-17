@@ -71,10 +71,11 @@ Welcome to my GitHub profile! I'm a passionate data analyst with strong skills i
 - Ensured high-quality website content and functionality; managed shift rosters using Global Productive Hub (GPH) and tracked leave via Team Accuracy Tracker.
 - Handled vendor and transport coordination, optimizing operational efficiency and compliance with organizational standards.
 
-### 🔹 **[Previous Job Title]**  
-**[Previous Company Name]** | *[Start Date] – [End Date]*  
-- [Key responsibilities or accomplishments].
-- [Relevant tools or outcomes].
+### 🔹 **BGC Specialist (Global Criminal Background and Health Screening Processes)**  
+**Sterling** | *March'2019 – May'2021*  
+- Oversaw USA and Asia-specific Criminal Background Verification processes with high accuracy.
+- Improved weekly data-driven team rostering processes to enhance operational efficiency.
+- Led USA Drug and Health Screening Process quality checks, ensuring compliance with standards.
 
 
 ---
