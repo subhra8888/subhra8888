@@ -54,6 +54,14 @@ Welcome to my GitHub profile! I'm a passionate data analyst with strong skills i
 
 ---
 
+### 📌 **Credit Card Transactions Analysis in SQL**
+[SQL Analysis]
+- Used complex joins, CTEs, and window functions.
+- Created KPIs for churn and lifetime value.
+- [View Project](https://github.com/subhra8888/SQL-Data-Analysis-on-Credit-Card-Transactions)
+
+---
+
 ### 📌 **HR Analysis Dashboard in Excel**
 [Excel Dashboard]
 - Developed an interactive dashboard for key HR metrics.
