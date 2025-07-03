@@ -118,10 +118,10 @@ Welcome to my GitHub profile! I'm a passionate data analyst with strong skills i
 - 💼 [LinkedIn]: www.linkedin.com/in/subhra-banerjee-data
 - 📧 [Email]: 123.shubhro@gmail.com
 
-## 🔗 Connect with me
+## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/subhra-banerjee-8bb88643/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](123.shubhro@gmail.com)
 
 
 
