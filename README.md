@@ -47,7 +47,7 @@ Welcome to my GitHub profile! I'm a passionate data analyst with strong skills i
 ---
 
 ### 📌 **Pizza Sales Dashboard in Tableau**
-[SQL Analysis]
+[Tableau Analysis]
 - Used complex joins, CTEs, and window functions.
 - Created KPIs for churn and lifetime value.
 - [View Project](https://public.tableau.com/app/profile/subhra.banerjee/viz/PizzaSalesDashboard_17532843300850/Home)
