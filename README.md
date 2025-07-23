@@ -46,7 +46,7 @@ Welcome to my GitHub profile! I'm a passionate data analyst with strong skills i
 
 ---
 
-### 📌 **Credit Card Transactions Analytics in SQL**
+### 📌 **Pizza Sales Dashboard in Tableau**
 [SQL Analysis]
 - Used complex joins, CTEs, and window functions.
 - Created KPIs for churn and lifetime value.
