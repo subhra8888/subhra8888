@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a passionate data analyst with strong skills i
 | **Power BI** | 🟩🟩🟩🟩⬜ |
 | **Tableau** | 🟩🟩🟩🟩⬜ |
 | **Advanced Excel** | 🟩🟩🟩🟩⬜ |
-| **HTML** | 🟩🟩⬜⬜⬜ |
+| **HTML** | 🟩🟩🟩🟩⬜ |
 
 
 ---
