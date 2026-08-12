@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate data analyst with strong skills i
 |------------------|-------------|
 | **SQL** | 🟩🟩🟩🟩⬜ |
 | **Power BI** | 🟩🟩🟩🟩⬜ |
-| **Tableau** | 🟩🟩🟩🟩⬜ |
+| **Tableau** | 🟩🟩🟩⬜⬜ |
 | **Advanced Excel** | 🟩🟩🟩🟩⬜ |
 | **HTML** | 🟩🟩🟩🟩⬜ |
 
@@ -58,7 +58,7 @@ Welcome to my GitHub profile! I'm a passionate data analyst with strong skills i
 [SQL Analysis]
 - Used complex joins, CTEs, and window functions.
 - Created KPIs for churn and lifetime value.
-- [View Project](https://public.tableau.com/shared/84BXHN6FD?:display_count=n&:origin=viz_share_link)
+- [View Project](https://github.com/subhra8888/SQL-Data-Analysis-on-Credit-Card-Transactions)
 
 ---
 
